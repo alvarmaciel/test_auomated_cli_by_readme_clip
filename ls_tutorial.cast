@@ -1,0 +1,2 @@
+{"version": 2, "width": 80, "height": 24, "timestamp": 1684784616, "env": {"SHELL": "/usr/bin/fish", "TERM": "xterm-256color"}}
+[0.010638, "o", "tuterm: error: script file does not exist\r\n"]
